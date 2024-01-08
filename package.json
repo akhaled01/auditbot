@@ -4,12 +4,11 @@
   "description": "A discord bot to tag people in audits",
   "main": "src/index.js",
   "scripts": {
-    "runbot": "node src/index.js"
+    "runbot": "node_modules/.bin/nodemon src/index.js"
   },
   "author": "akhaled",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.3.0",
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1"
   },
