@@ -1,5 +1,5 @@
 {
-  "name": "auditcall",
+  "name": "auditbot",
   "version": "1.0.0",
   "description": "A discord bot to tag people in audits",
   "main": "src/index.js",
