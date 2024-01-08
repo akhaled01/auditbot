@@ -1,6 +1,6 @@
 # AuditBot
 
-project AuditBot is a dicord bot that mainly simplifies the auditing process in reboot01 while adding more **fun** to reboot's cohort discord server.
+project AuditBot is a discord bot that mainly simplifies the auditing process in reboot01 while adding more **fun** to reboot's cohort discord server.
 
 ## More Info
 
