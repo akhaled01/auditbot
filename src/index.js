@@ -17,7 +17,7 @@ const mainclient = new Client({
 // adding an event listener for the client, logging to terminal
 // when the bot is online
 mainclient.on("ready", (paramclient) => {
-  console.log("\x1b[1;92m%s\x1b[0m", `${paramclient.user.displayName} is online`);
+  console.log("\x1b[1;94m%s\x1b[0m", `${paramclient.user.displayName} is online`);
 });
 
 // detecting messages
