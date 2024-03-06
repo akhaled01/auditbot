@@ -14,3 +14,4 @@ project AuditBot is a discord bot that mainly simplifies the auditing process in
 
 * Abdulrahman Khaled
 * Yaman Al-Masri
+* Ahmed Mahdi 
